@@ -1,3 +1,5 @@
 #Primeiro Clone Juntos 
-Hitalo Augusto Lourenço Guedesgit 
-Sophia Ellen Silva Canêdo
+
+- Hitalo Augusto Lourenço Guedesgit 
+
+- Sophia Ellen Silva Canêdo
