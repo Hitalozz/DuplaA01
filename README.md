@@ -8,3 +8,4 @@
 
 - Sophia Ellen Silva Canêdo
 
+Aula dia 27/08/2026
